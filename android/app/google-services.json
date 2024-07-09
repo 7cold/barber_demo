@@ -1,0 +1,251 @@
+{
+  "project_info": {
+    "project_number": "718433769016",
+    "firebase_url": "https://betas-projects.firebaseio.com",
+    "project_id": "betas-projects",
+    "storage_bucket": "betas-projects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718433769016:android:f8901cb31b7dd0ba39f8cd",
+        "android_client_info": {
+          "package_name": "com.cold.checkmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQ1HQ817N7uLwQLNV3YoCk_raZx_M0N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718433769016-6solchfsoppkchr930tml0akaseddio1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cold.mypetsPetshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718433769016:android:9a9c12beb0a67b4f39f8cd",
+        "android_client_info": {
+          "package_name": "com.cold.fastfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718433769016-g2fbeoi86mm6b8o3u9m93g785htnv9m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cold.fastfood",
+            "certificate_hash": "53f8d4a6a308ae1cb0317d59f81076b3e957e7de"
+          }
+        },
+        {
+          "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQ1HQ817N7uLwQLNV3YoCk_raZx_M0N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718433769016-6solchfsoppkchr930tml0akaseddio1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cold.mypetsPetshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718433769016:android:762f9368e383b61939f8cd",
+        "android_client_info": {
+          "package_name": "com.cold.fornazza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718433769016-q1uts1jsj3sr6fivf1rqrn27h7jti2si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cold.fornazza",
+            "certificate_hash": "8f08300cb03ab1f574941dbd0c208256469818b3"
+          }
+        },
+        {
+          "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQ1HQ817N7uLwQLNV3YoCk_raZx_M0N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718433769016-6solchfsoppkchr930tml0akaseddio1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cold.mypetsPetshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718433769016:android:3fb0fc45fd1644bb39f8cd",
+        "android_client_info": {
+          "package_name": "com.cold.school_beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQ1HQ817N7uLwQLNV3YoCk_raZx_M0N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718433769016-6solchfsoppkchr930tml0akaseddio1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cold.mypetsPetshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718433769016:android:c45a41151977a55639f8cd",
+        "android_client_info": {
+          "package_name": "com.example.barbearia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQ1HQ817N7uLwQLNV3YoCk_raZx_M0N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718433769016-6solchfsoppkchr930tml0akaseddio1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cold.mypetsPetshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718433769016:android:6c8777a3ddb48cfa39f8cd",
+        "android_client_info": {
+          "package_name": "com.example.sign_in_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718433769016-d4a1p47dlt4iq49e18nip27947i11q97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sign_in_flutter",
+            "certificate_hash": "8f08300cb03ab1f574941dbd0c208256469818b3"
+          }
+        },
+        {
+          "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcQ1HQ817N7uLwQLNV3YoCk_raZx_M0N8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718433769016-od6f109k0c1g5rt5dtdv6qibm660klsc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718433769016-6solchfsoppkchr930tml0akaseddio1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cold.mypetsPetshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
